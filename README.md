@@ -1,8 +1,8 @@
-#Blinkit Sales Data Analysis Dashboard(Interactive Dashboard  Creation using MS Excel)
+# Blinkit Sales Data Analysis Dashboard(Interactive Dashboard  Creation using MS Excel)
 
 This project presents a Blinkit Sales Dashboard built using Excel to analyze over 8,500+ sales records. The dashboard provides clear insights into sales performance, outlet distribution, item categories, and other key business metrics.
 
-##🚀 Project Overview
+## 🚀 Project Overview
 
 The objective of this analysis was to visualize and summarize Blinkit’s sales data to identify:
 	•	High-performing outlet types and locations
@@ -10,14 +10,14 @@ The objective of this analysis was to visualize and summarize Blinkit’s sales 
 	•	Impact of fat content on sales
 	•	Trends over the years in outlet establishments
 
-##📂 Dataset Details
+## 📂 Dataset Details
 	•	Total Records: 8,523+
 	•	Total Sales: $1.20M
 	•	Average Sales per Transaction: $141
 	•	Average Rating: 4.0
 	•	Data Fields: Outlet size, location type, item type, fat content, establishment year, sales, ratings, etc.
 
-##📈 Key Insights from Dashboard
+## 📈 Key Insights from Dashboard
 	1.	Outlet Size Performance
 	•	Large outlets generated 42% of total sales ($507.9K).
 	•	Medium outlets contributed 37% ($444.79K).
