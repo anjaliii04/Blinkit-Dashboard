@@ -17,6 +17,10 @@ The objective of this analysis was to visualize and summarize Blinkit’s sales 
 	•	Average Rating: 4.0
 	•	Data Fields: Outlet size, location type, item type, fat content, establishment year, sales, ratings, etc.
 
+ ## Dashboard
+ <img width="1505" height="799" alt="Blinkit Dashboard" src="https://github.com/user-attachments/assets/ac6f8763-c702-4422-918a-b0d8f5b7aa27" />
+
+
 ## 📈 Key Insights from Dashboard
 	1.	Outlet Size Performance
 	•	Large outlets generated 42% of total sales ($507.9K).
